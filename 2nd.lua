@@ -1,7 +1,9 @@
---moonsec is died
--- -kids
---dont use luaobfuscator.com
---luraph is better
+--[[
+moonsec is died
+-kids
+dont use luaobfuscator.com
+luraph is better
+--]]
 
 -- This file was generated using Luraph Obfuscator v13.6.7
 
