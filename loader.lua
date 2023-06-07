@@ -1,5 +1,5 @@
 --[[
-you can see modules at documentation
+you can see all modules at documentation (https://raw.githubusercontent.com/n1qxwe/scripts/main/README.md)
 by nikz#0255
 517916977545609227
 --]]
