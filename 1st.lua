@@ -1,7 +1,9 @@
--- go away skid
--- ill fuck ur mother
+--[[ 
+go away skid
+ill fuck ur mother
 
--- nikz#0255 WAS HERE
+nikz#0255 WAS HERE
+--]]
 
 -- This file was generated using Luraph Obfuscator v13.6.7
 
