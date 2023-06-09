@@ -4,7 +4,7 @@ by nikz#0255
 517916977545609227
 --]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/n1qxwe/scripts/main/preload.lua"))() --preloads assets
+--assets preloading may crash at slow pc
 loadstring(game:HttpGet("https://raw.githubusercontent.com/n1qxwe/scripts/main/5th.lua"))() --loads fifth module
 loadstring(game:HttpGet("https://raw.githubusercontent.com/n1qxwe/scripts/main/1st.lua"))() --loads first modul
 loadstring(game:HttpGet("https://raw.githubusercontent.com/n1qxwe/scripts/main/2nd.lua"))() --loads second module
